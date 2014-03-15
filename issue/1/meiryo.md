@@ -2,7 +2,8 @@ As people rely more and more on technology to solve problems, the ability of hum
 
 Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.
 
-==== Response ====
+Response
+====
 
 1. Disagree.
 
@@ -25,4 +26,5 @@ Write a response in which you discuss the extent to which you agree or disagree 
 
 5. Conclusion. Despite the fear induced by various science fiction movies about robots overtaking humans, I believe this won't happen any time soon, at least not in this millennium. We may not know our creator, but even if we can reasonably suspect that robots have consciousness, they will definitely know their creator. The true independence of human minds lie not in the capacity to solve problems, but in the creative process of comming up with such problems, and the process of finding novel approaches to these problems.
 
------- Meiryo
+Meiryo
+------
