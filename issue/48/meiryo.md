@@ -26,3 +26,6 @@ It is also important to take the level of education into account. For instance, 
     The sheer volume of human knowledge nowadays privide an essential justification for such trend, for to gain even a schematic understanding of the facts in a subject, for instance the history of France, requires months and years of research effort.
 
 5. Conclusion.
+
+meiryo
+---
