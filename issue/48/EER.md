@@ -11,7 +11,7 @@ RESPONSE:
 3. Explain to what extent can a student accept ideas and trends without learning about some facts prior to theories.
     1. In quantum physics, facts of ground-breaking experiments in early years could help students to comprehend those pure mathematical constructions of impenetrable obscurity and thus extract the physical image inside. 
     2. In the field of biology and chemistry, facts are indispensable to learning. Research into these fields are largely based on actual facts. Students in these fields should acquire the ability to sum up ideas with facts and learning without facts given would definitely fail to do so.
-4. Although putting the abstraction before obtaining information in a student’s learning curve could make the acquisition of information quicker and easier, this is against our nature.
+4. Although placing the ideas and abstractions before obtaining information in a student’s learning curve could make the acquisition of information quicker and easier, this is against our nature.
 	  1. Why learning math is boring to most people. (Much more abstraction than facts)
 5. Under most circumstances, educators should regard facts as a sensible supplement to their teaching in order to achieve better effect.
 
